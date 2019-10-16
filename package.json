@@ -1,6 +1,6 @@
 {
   "name": "react-ripple-button",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a ripple-button component for React that from Ripple buttons",
   "main": "dist/RippleButton.min.js",
   "scripts": {
