@@ -16,14 +16,14 @@ module.exports = {
   globals: {
     react: 'React',
   },
-  input: 'src/RippleBtn.jsx',
+  input: 'src/RippleButton.jsx',
   output: {
     dir: 'dist',
     extractCSS: true,
     // fileName: '[name][suffix].js',
     format: ['cjs-min', 'es-min', 'umd-min'],
     minify: true,
-    moduleName: 'RippleBtn',
+    moduleName: 'RippleButton',
     sourceMap: true,
     sourceMapExcludeSources: true,
     target: 'browser',

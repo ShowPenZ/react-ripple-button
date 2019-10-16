@@ -1,8 +1,8 @@
 {
   "name": "react-ripple-button",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a ripple-button component for React that from Ripple buttons",
-  "main": "dist/RippleBtn.min.js",
+  "main": "dist/RippleButton.min.js",
   "scripts": {
     "build": "bili --env.NODE_ENV production",
     "release:major": "npm version major && npm publish",
