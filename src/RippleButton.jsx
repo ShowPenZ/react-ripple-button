@@ -1,6 +1,7 @@
 import React from 'react';
 import ClassName from 'classnames';
 import PropTypes from 'prop-types';
+
 import './RippleButton.css';
 
 function debounce(func, delay) {

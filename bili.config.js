@@ -19,7 +19,7 @@ module.exports = {
   input: 'src/RippleButton.jsx',
   output: {
     dir: 'dist',
-    extractCSS: true,
+    extractCSS: false,
     // fileName: '[name][suffix].js',
     format: ['cjs-min', 'es-min', 'umd-min'],
     minify: true,
